@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Python",
+        "year": 1991,
+        "designers": ["Guido van Rossum"],
+        "paradigms": ["object-oriented", "procedural", "functional", "structural", "reflective"]
+    },
+    {
+        "name": "C",
+        "year": 1972,
+        "designers": ["Dennis Ritchie"],
+        "paradigms": ["procedural", "structural"]
+    },
+    {
+        "name": "Java",
+        "year": 1995,
+        "designers": ["James Gosling"],
+        "paradigms": ["generic", "object-oriented", "procedural", "functional", "reflective", "concurrent"]
+    }, 
+    {
+        "name": "Rust",
+        "year": 2006,
+        "designers": ["Graydon Hoare"],
+        "paradigms": ["concurrent", "functional", "generic", "imperative", "structural"]
+    },
+    {
+        "name": "Haskell",
+        "year": 1990,
+        "designers": ["Lennart Augustsson", "Dave Barton", "Brian Boutel", "Warren Burton", "Joseph Fasel", "Kevin Hammond", "Ralf Hinze", "Paul Hudak", "John Hughes", "Thomas Johnsson", "Mark Jones", "Simon Peyton Jones", "John Launchbury", "Erik Meijer", "John Peterson", "Alastair Reid", "Colin Runciman", "Philip Wadler"],
+        "paradigms": ["functional"]
+    }, 
+    {
+        "name": "Go",
+        "year": 2009,
+        "designers": ["Robert Griesemer", "Rob Pike", "Ken Thompson"],
+        "paradigms": ["concurrent", "imperative", "functional", "object-oriented"]
+    }
+]
+
